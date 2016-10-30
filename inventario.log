@@ -1,0 +1,4 @@
+Línea 28: la clase MSComDlg.CommonDialog del control Dialog1 no era una clase de control cargada.
+Línea 31: el nombre de la propiedad _ExtentX de Dialog1 no es válido.
+Línea 32: el nombre de la propiedad _ExtentY de Dialog1 no es válido.
+Línea 33: el nombre de la propiedad _Version de Dialog1 no es válido.
